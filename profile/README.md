@@ -1,10 +1,19 @@
-# The Data Dilemma 🚀
+<div align="center">
+  <h1>The Data Dilemma 🚀</h2>
 
-> **Open Source AI Solutions • Real-World Impact**
+  > **Open Source AI Solutions • Real-World Impact**
 
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-The%20Data%20Dilemma-orange?style=flat&logo=huggingface)](https://huggingface.co/The-Data-Dilemma)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/company/the-data-dilemma)
-[![Email](https://img.shields.io/badge/Contact-me%40promila.info-red?style=flat&logo=gmail)](mailto:me@promila.info)
+  <a href="https://huggingface.co/The-Data-Dilemma">
+    <img src="https://img.shields.io/badge/Hugging%20Face-The%20Data%20Dilemma-orange?style=flat&logo=huggingface" alt="Hugging Face" />
+  </a>
+  <a href="https://www.linkedin.com/company/the-data-dilemma">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:me@promila.info">
+    <img src="https://img.shields.io/badge/Contact-me%40promila.info-red?style=flat&logo=gmail" alt="Email" />
+  </a>
+</div>
+
 
 ---
 
